@@ -1,0 +1,15 @@
+{
+  "repository": "module-ecommerce-point-of-sale-react-inertia",
+  "capabilityKey": "planned:ecommerce:point-of-sale",
+  "presentation": "laravel-inertia-react",
+  "package": "@liberusoftware/module-ecommerce-point-of-sale-react-inertia",
+  "foundation": "module-boilerplate-react-inertia",
+  "foundationCommit": "5a2d7f53327e9648efd68af033e1876ce1cf20f0",
+  "canonicalPlan": "projects/ecommerce/nextjs/point-of-sale.md",
+  "presentationPlan": "projects/ecommerce/react/point-of-sale.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "ecommerce"
+  ]
+}
